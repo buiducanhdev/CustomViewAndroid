@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DividerView">
+        <attr format="dimension" name="dividerThickness"/>
+        <attr name="dividerInsetStart"/>
+        <attr name="dividerInsetEnd"/>
+        <attr format="color" name="dividerColor"/>
+
+    </declare-styleable>
+</resources>
